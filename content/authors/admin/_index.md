@@ -1,6 +1,6 @@
 ---
 title: Hai Duong Nguyen
-role: Data Assiciate
+role: Data Associate
 avatar_filename: 20220903_055936.jpg
 bio: Interested in technologies, books and music ...
 social:
