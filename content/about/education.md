@@ -27,8 +27,8 @@ experience:
     company_url: ''
     # company_logo: HUST
     location: Ha Noi, Viet Nam
-    date_start: 'Sep 2017'
-    date_end: 'Jan 2022'
+    date_start: '2017-09-05'
+    date_end: '2021-12-31'
     description: |2-
         * Major in Electronics and Telecommunication
         * Subjects related to CS
@@ -40,8 +40,8 @@ experience:
     company_url: ''
     # company_logo: CNT
     location: Hai Duong, Viet Nam
-    date_start: 'Sep 2014'
-    date_end: 'May 2017'
+    date_start: '2014-09-05'
+    date_end: '2017-05-31'
     description: 3rd prize in provincial math grade 10
 
 design:
