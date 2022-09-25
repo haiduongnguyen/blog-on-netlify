@@ -25,7 +25,7 @@ experience:
   - title: Data Associate
     company: Techcombank
     company_url: ''
-    company_logo: Tech
+    # company_logo: Tech
     location: Ha Noi, Viet Nam
     date_start: '2022-10-10'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Data Engineer
     company: FPT Software
     company_url: ''
-    company_logo: FPT
+    # company_logo: FPT
     location: Ha Noi, Viet Nam
     date_start: '2021-09-01'
     date_end: '2022-10-10'
