@@ -3,11 +3,11 @@ widget: pages
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Recent Blog Posts
+title: Blog Posts
 subtitle: ''
 
 # Position of this section on the page
-weight: 1
+weight: 2
 
 content:
   # Filter content to display

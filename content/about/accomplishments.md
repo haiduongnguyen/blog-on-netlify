@@ -25,28 +25,30 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2020-10-26'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    url: 'https://coursera.org/share/195a2852456df6df3da56414723111b1'\
+
+  - certificate_url: https://www.udemy.com/
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    date_start: '2021-08-31'
+    description: Taming Big Data with Spark and Python
+    organization: Udemy
+    organization_url: https://www.udemy.com/
+    title: Taming Big Data
+    url: http://ude.my/UC-5a33190b-3899-4dc3-918d-c63280444321
+
+  - certificate_url: https://www.udemy.com/
+    date_end: ''
+    date_start: '2021-10-03'
+    description: Tableau 2022 A-Z: Hands-On Tableau Training for Data Science
+    organization: Udemy
+    organization_url: https://www.udemy.com/
+    title: Tableau Hands-on
+    url: http://ude.my/UC-8a619614-fe5e-4f9e-a018-98812a9ae48c
 
 design:
   columns: '1'
