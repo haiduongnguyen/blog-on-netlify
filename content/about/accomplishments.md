@@ -23,17 +23,17 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.coursera.org/
     date_end: ''
-    date_start: '2020-10-26'
+    date_start: 'Oct 2020'
     description: ''
     organization: Coursera
-    # organization_url: https://www.coursera.org
+    organization_url: https://www.coursera.org/
     title: Neural Networks and Deep Learning
     url: https://coursera.org/share/195a2852456df6df3da56414723111b1
   - certificate_url: https://www.udemy.com/
     date_end: ''
-    date_start: '2021-08-31'
+    date_start: 'Aug 2021'
     description: Taming Big Data with Spark and Python
     organization: Udemy
     organization_url: https://www.udemy.com/
@@ -41,7 +41,7 @@ item:
     url: http://ude.my/UC-5a33190b-3899-4dc3-918d-c63280444321
   - certificate_url: https://www.udemy.com/
     date_end: ''
-    date_start: '2021-10-03'
+    date_start: 'Oct 2021'
     description: Tableau 2022 A-Z: Hands-On Tableau Training for Data Science
     organization: Udemy
     organization_url: https://www.udemy.com/
