@@ -25,7 +25,7 @@ experience:
   - title: Student 
     company: Ha Noi University of Science and Technology
     company_url: ''
-    company_logo: HUST
+    # company_logo: HUST
     location: Ha Noi, Viet Nam
     date_start: 'Sep 2017'
     date_end: 'Jan 2022'
@@ -38,7 +38,7 @@ experience:
   - title: Student
     company: Nguyen Trai High School for gifted students
     company_url: ''
-    company_logo: CNT
+    # company_logo: CNT
     location: Hai Duong, Viet Nam
     date_start: 'Sep 2014'
     date_end: 'May 2017'
