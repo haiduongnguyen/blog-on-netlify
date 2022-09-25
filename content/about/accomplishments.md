@@ -28,10 +28,9 @@ item:
     date_start: '2020-10-26'
     description: ''
     organization: Coursera
-    organization_url: https://www.coursera.org
+    # organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
-    url: 'https://coursera.org/share/195a2852456df6df3da56414723111b1'\
-
+    url: https://coursera.org/share/195a2852456df6df3da56414723111b1
   - certificate_url: https://www.udemy.com/
     date_end: ''
     date_start: '2021-08-31'
@@ -40,7 +39,6 @@ item:
     organization_url: https://www.udemy.com/
     title: Taming Big Data
     url: http://ude.my/UC-5a33190b-3899-4dc3-918d-c63280444321
-
   - certificate_url: https://www.udemy.com/
     date_end: ''
     date_start: '2021-10-03'
